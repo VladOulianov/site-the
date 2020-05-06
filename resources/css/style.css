@@ -320,6 +320,10 @@ cite img{
 .packs-content ul li i {
     font-size: 90%;
     margin-right: 10px;
+    
+}
+.fa-times-circle {
+  color: red;
 }
 .packs-signup {
     text-align: center;²
